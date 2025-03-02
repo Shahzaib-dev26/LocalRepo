@@ -8,7 +8,7 @@ class Identity:
 
     @staticmethod
     def newFeature():
-        print("This is a new feature")
+        print("This is a new feature OP")
 
 
 Shahzaib = Identity("Shahzaib", 19)
